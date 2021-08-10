@@ -3,5 +3,5 @@ namely Knowledge, Evaluation, Comprehension, Analysis, Application, Synthesis an
 
 The purpose of creating this application is to help instructors to create a more balanced question paper to enhance the overall experience of taking an examination.
 
-Model used for classification: Long Short Term Model
-Framework used for development: Flutter
+Model used for classification: Long Short Term Model.
+Framework used for development: Flutter.
